@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3239480.jpg&f=1&nofb=1&ipt=b7d252706303e33f2169265b924b5fbc22fd868245f20707fcae543761d93191"  />
+  <img width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3239480.jpg&f=1&nofb=1&ipt=b7d252706303e33f2169265b924b5fbc22fd868245f20707fcae543761d93191"  />
 </div>
 
 ###
