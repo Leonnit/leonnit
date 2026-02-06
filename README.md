@@ -1,94 +1,130 @@
-# 👋 Salut, je suis [Votre Nom] !
+<div align="center">
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3239480.jpg&f=1&nofb=1&ipt=b7d252706303e33f2169265b924b5fbc22fd868245f20707fcae543761d93191"  />
+</div>
 
-## 🚀 À propos de moi
+###
 
-Développeur passionné par la création de solutions innovantes et l'apprentissage continu de nouvelles technologies.
+<h1 align="center">Hey 👋 What's up?</h1>
 
-- 🔭 Je travaille actuellement sur **[Votre projet actuel]**
-- 🌱 J'apprends actuellement **[Technologies que vous apprenez]**
-- 👯 Je cherche à collaborer sur **[Type de projets]**
-- 💬 Demandez-moi à propos de **[Vos compétences principales]**
-- 📫 Comment me contacter : **[votre.email@exemple.com]**
-- ⚡ Fun fact : **[Quelque chose d'intéressant sur vous]**
+###
 
-## 🛠️ Technologies & Outils
+<p align="center">My name is <strong>Leonnit NOMENJANHARY</strong>, I'm a student in Computer Science</p>
 
-### Langages de programmation
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+###
 
-### Frameworks & Bibliothèques
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+<p align="center">💻 Full-Stack Developer | 📱 Mobile Enthusiast | 🚀 Tech Passionate</p>
 
-### Outils & Plateformes
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+###
 
-### Bases de données
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-## 📊 Statistiques GitHub
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+</div>
+
+###
+
+<h3 align="center">Frontend & Mobile</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
+</div>
+
+###
+
+<h3 align="center">Backend & DevOps</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 align="center">Databases</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+</div>
+
+###
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonnit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leonnit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonnit&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</div>
+
+###
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonnit-nomenjanahary-173b51273/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCpBn2zi1yc5Zq9My8Xvi84Q" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/man.tsaya" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">💡 About Me</h2>
+
+###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+🎓 Computer Science Student<br/>
+💼 Passionate about building innovative solutions<br/>
+🌱 Currently learning advanced Full-Stack development<br/>
+🔭 Working on mobile and web applications<br/>
+⚡ Fun fact: I love exploring new technologies and frameworks
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leonnit&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🏆 Projets Principaux
-
-### [📱 Nom du Projet 1](lien-vers-repo)
-Description courte du projet et des technologies utilisées.
-- 🔧 Technologies : React, Node.js, MongoDB
-- ⭐ Points forts : [Caractéristique principale]
-
-### [🌐 Nom du Projet 2](lien-vers-repo)
-Description courte du projet et des technologies utilisées.
-- 🔧 Technologies : Python, Django, PostgreSQL
-- ⭐ Points forts : [Caractéristique principale]
-
-### [🤖 Nom du Projet 3](lien-vers-repo)
-Description courte du projet et des technologies utilisées.
-- 🔧 Technologies : Java, Spring Boot
-- ⭐ Points forts : [Caractéristique principale]
-
-## 📈 Contributions
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🤝 Connectez-vous avec moi
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/votre-profil)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://votre-site.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:votre.email@exemple.com)
-
-## 💡 Citation Favorite
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  ⭐️ N'hésitez pas à star mes repos si vous les trouvez utiles !
+  ⭐️ Feel free to star my repositories if you find them useful!
 </p>
