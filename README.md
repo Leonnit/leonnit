@@ -74,9 +74,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonnit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonnit&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph"  />
+<div>
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" /></a>
+  </p>
+
+  <p align="center">
+    <a href="https://ossinsight.io/analyze/Leonnit">
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Leonnit&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" >
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonnit&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        </picture>
+    </a>
+  </p>
 </div>
 
 ###
