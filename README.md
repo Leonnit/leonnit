@@ -75,9 +75,7 @@
 ###
 
 <div>
-  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Leonnit&theme=dark" alt="GitHub Streak" /></a>
-  </p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Leonnit)](https://git.io/streak-stats)
 
   <p align="center">
     <a href="https://ossinsight.io/analyze/Leonnit">
