@@ -74,9 +74,7 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonnit)](https://git.io/streak-stats)
 <div>
-
   <p align="center">
     <a href="https://ossinsight.io/analyze/Leonnit">
         <picture>
